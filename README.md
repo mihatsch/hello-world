@@ -1,3 +1,3 @@
 # hello-world
 další repozitář
-zde je něco úplně jiného
+zde je něco úplně jiného atd.
